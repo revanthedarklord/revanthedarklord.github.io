@@ -1,0 +1,22 @@
+title: Online Work Hub
+name: Taylor Lassiter
+baseurl: ""
+markdown: kramdown
+
+page_data:
+
+  - title: "Home"
+    id: "home"
+    url: ""
+
+  - title: "About"
+    id: "about"
+    url: "about"
+
+  - title: "Blog"
+    id: "blog"
+    url: "blog"
+
+  - title: "Resume"
+    id: "resume"
+    url: "resume"
